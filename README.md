@@ -1,4 +1,4 @@
-# GMCA-5-MySQL
+# MySQL Project on Customer and Productors 
 
 SQL 
 This is the database that was given us, I downloaded and import create-databases SQL script into MySQL Workbench. Run the script and create databases. 
