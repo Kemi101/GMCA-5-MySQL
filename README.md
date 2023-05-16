@@ -4,7 +4,7 @@ SQL
 This is the database that was given us, I downloaded and import create-databases SQL script into MySQL Workbench. Run the script and create databases. 
 This was done as shown below. 
  
-[image](https://github.com/Kemi101/GMCA-5-MySQL/assets/131159967/aca1bee6-1650-421a-9f68-47e0dd003f60)
+![image](https://github.com/Kemi101/GMCA-5-MySQL/assets/131159967/aca1bee6-1650-421a-9f68-47e0dd003f60)
 
 1.2	Add where customer_id=1 order by first_name to generate query
 This query only generate order with customer_id of 1. Query as shown below  
